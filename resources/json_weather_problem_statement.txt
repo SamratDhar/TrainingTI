@@ -1,0 +1,4 @@
+Below json consist of weather data of 2 cities, Kolkata and Mumbai for 3 days. Need to find out chances of rain in each day for both the cities. There can be 3 possible values of chances – High, Medium and Low. 
+Consider the condition, humidity is close to 100 means chances are high, less humid means chances of rain are low.
+
+Also find which city will be hotter each day
